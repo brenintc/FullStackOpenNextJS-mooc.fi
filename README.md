@@ -1,1 +1,0 @@
-# FullStackOpenNextJS-mooc.fi
